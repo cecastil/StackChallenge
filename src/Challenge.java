@@ -33,6 +33,7 @@ public class Challenge {
         s3.push("cesar");
         s3.push("samuel");
         s3.push("carlos");
+        s3.push("Anahi");
         for (String i: s3
              ) {
             System.out.println(i);
